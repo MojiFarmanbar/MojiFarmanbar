@@ -15,7 +15,7 @@ Hi there 👋, my name is Mojtaba Farmanbar
 #### Publications:
 - You can find the list of publications from physics to machine learning, [here](https://scholar.google.com/citations?hl=en&user=2CR9_jYAAAAJ&view_op=list_works).
 
-#### 📝 Blog:
+#### 📝 Blogs:
 - Semantic search in risk management using NLP pipeline, [check here](https://medium.com/ing-blog/semantic-search-in-risk-management-using-nlp-pipeline-8ef634a022b7)
 
 
