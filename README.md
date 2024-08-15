@@ -12,7 +12,7 @@ Hi there 👋, my name is Mojtaba Farmanbar
 - I am passionate about conducting research and connecting it to business.
 
 #### 🎓 Education:
-- I got my PhD in computational physics, with a focus on electronic properties of 2d(dimensional) materials, like graphene. 
+- I hold a PhD in computational physics, with a focus on electronic properties of 2d(dimensional) materials, like graphene. 
 
 #### Publications:
 - You can find the list of publications from physics to machine learning, [check here](https://scholar.google.com/citations?hl=en&user=2CR9_jYAAAAJ&view_op=list_works).
@@ -20,6 +20,7 @@ Hi there 👋, my name is Mojtaba Farmanbar
 #### 📝 Blogs:
 - Conformalize a time series model using Julia, [check here](https://medium.com/juliazoid/conformalize-a-time-series-model-using-julia-b8f72c3f72aa)
 - Semantic search in risk management using NLP pipeline, [check here](https://medium.com/ing-blog/semantic-search-in-risk-management-using-nlp-pipeline-8ef634a022b7)
+
 
 
 
