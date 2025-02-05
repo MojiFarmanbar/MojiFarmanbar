@@ -7,8 +7,8 @@
 Hi there 👋, my name is Mojtaba Farmanbar
  
  #### :technologist: About Me :
-- I am a data scientist with years of experience in financial services. I have worked in different domains, such as marketing, financial risk, consumer lending, people analytics, and financial crime and fraud.
-- Currently, I am working in customer engagement & commerce domain at [KNAB](https://www.knab.nl/).
+- I am a data scientist with more than 8 years of experience in payment and financial services. I have worked in different domains, such as marketing, financial risk, consumer lending, people analytics, and financial crime and fraud.
+- Currently, I am leading Generative AI solutions at [KNAB](https://www.knab.nl/).
 - I am passionate about conducting research and connecting it to business.
 
 #### 🎓 Education:
