@@ -7,17 +7,17 @@
 Hi there 👋, my name is Mojtaba Farmanbar
  
  #### :technologist: About Me :
-- I am a data scientist with more than 8 years of experience in payment and financial services. I have worked in different domains, such as marketing, financial risk, consumer lending, people analytics, and financial crime and fraud.
-- Currently, I am leading Generative AI solutions at [KNAB](https://www.knab.nl/).
-- I am passionate about conducting research and connecting it to business.
+- I’m a Senior Applied Data Scientist with over 8 years of experience building production-ready machine learning solutions in the payments and financial services industry. Currently, I lead Generative AI solutions at [KNAB](https://www.knab.nl/)
+- I’m passionate about applied research and always open to collaborating on research-driven projects, especially those that connect theory with practical outcomes.
 
 #### 🎓 Education:
-- I hold a PhD in computational physics, with a focus on electronic properties of 2d(dimensional) materials, like graphene. 
+- I hold a PhD in computational physics, with a specialization in the electronic properties of two-dimensional (2D) materials such as graphene
 
-#### Publications:
-- You can find the list of publications from physics to machine learning, [check here](https://scholar.google.com/citations?hl=en&user=2CR9_jYAAAAJ&view_op=list_works).
-
-#### 📝 Blogs:
+#### 📚 Publications:
+- From physics to machine learning, I’ve contributed to research across disciplines, 👉 [check here](https://scholar.google.com/citations?hl=en&user=2CR9_jYAAAAJ&view_op=list_works)
+  
+#### ✍️ Blogs:
+I occasionally share insights on data science, AI, and domain-specific applications:
 - Conformalize a time series model using Julia, [check here](https://medium.com/juliazoid/conformalize-a-time-series-model-using-julia-b8f72c3f72aa)
 - Semantic search in risk management using NLP pipeline, [check here](https://medium.com/ing-blog/semantic-search-in-risk-management-using-nlp-pipeline-8ef634a022b7)
 
