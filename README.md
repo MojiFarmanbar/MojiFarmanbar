@@ -4,7 +4,7 @@
 </p>
 
 
-Hi there 👋, my name is Mojtaba Farmanbar
+Hi there 👋, my name is Moji Farmanbar
  
  #### :technologist: About Me :
 - I’m a Senior Applied Data Scientist with over 8 years of experience building production-ready machine learning solutions in the payments and financial services industry. Currently, I lead Generative AI solutions at [KNAB](https://www.knab.nl/)
